@@ -22,8 +22,8 @@ Python 3.13.3
 VS Code (recommended)
 
 **Sample Output**
-Search for 80: 80
-Inorder traversal: [20, 30, 40, 50, 60, 70, 80]
+Search for 50: 50
+Inorder traversal: [5, 10, 20, 30, 40, 50, 55, 60, 70]
 Search for 40: None
 
 **About**

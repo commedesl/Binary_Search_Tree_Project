@@ -1,7 +1,7 @@
 ## Binary Search Tree Project
 
 This project implements a simple **Binary Search Tree (BST)** in Python.  
-It demonstrates basic operations like inserting nodes, searching for values, deleting nodes , performing an inorder traversal, and to find min value.
+It demonstrates basic operations like inserting nodes, searching for values, deleting nodes , performing an inorder traversal, and finding minimum value.
 
 ## Features
 - Insert new nodes into the tree
